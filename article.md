@@ -2,14 +2,14 @@
 template: article
 auto: true
 feed: true
-title: testsetsetset
+title: Doch noch eine Änderung
 description: Lead
-slug: testsetsetset
+slug: doch-noch-eine-aenderung
 ---
 
 <section><h6>TITLE</h6>
 
-# testsetsetset
+# Doch noch eine Änderung
 
 Lead
 
