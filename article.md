@@ -3,7 +3,7 @@ template: article
 auto: true
 feed: true
 title: Doch noch eine Änderung
-description: Lead
+description: Das ist der Lead
 slug: doch-noch-eine-aenderung
 ---
 
@@ -11,7 +11,7 @@ slug: doch-noch-eine-aenderung
 
 # Doch noch eine Änderung
 
-Lead
+Das ist der Lead
 
 Von [Thomas Moser](/~75ebbabc-d577-4727-a8c9-de5b20a76eab) (Text) und Kollaborator, 3. März 2018
 
